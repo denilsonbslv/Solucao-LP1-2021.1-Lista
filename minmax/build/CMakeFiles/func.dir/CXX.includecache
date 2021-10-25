@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/denil/GitHub/LP1-2021.1-Lista1/minmax/src/function.cpp
+function.h
+/mnt/d/denil/GitHub/LP1-2021.1-Lista1/minmax/src/function.h
+iostream
+-
+
+/mnt/d/denil/GitHub/LP1-2021.1-Lista1/minmax/src/function.h
+utility
+-
+

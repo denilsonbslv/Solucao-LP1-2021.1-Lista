@@ -1,0 +1,4 @@
+/mnt/d/denil/GitHub/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/denil/GitHub/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/edit_cache.dir
+/mnt/d/denil/GitHub/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/verify.dir
+/mnt/d/denil/GitHub/LP1-2021.1-Lista1/intervalos/build/CMakeFiles/program.dir

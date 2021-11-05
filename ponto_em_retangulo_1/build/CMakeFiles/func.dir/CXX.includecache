@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/ponto_em_retangulo_1/src/function.cpp
+function.h
+/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/ponto_em_retangulo_1/src/function.h
+
+/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/ponto_em_retangulo_1/src/function.h
+array
+-
+string
+-
+

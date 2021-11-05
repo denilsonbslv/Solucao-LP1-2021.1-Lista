@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/src/main.cpp" "/mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build/CMakeFiles/program.dir/src/main.cpp.o"
+  "/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/src/main.cpp" "/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build/CMakeFiles/program.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

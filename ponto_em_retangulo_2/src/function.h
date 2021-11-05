@@ -6,6 +6,9 @@ using std::array;
 #include <string>
 using std::string;
 
+// Incluindo função Ponto em Retângulo
+//#include "ponto_em_retan.h"
+
 /// Representa um ponto em 2D
 struct Ponto {
     int x; //!< coordenada x.

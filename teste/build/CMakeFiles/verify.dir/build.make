@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste
+CMAKE_SOURCE_DIR = /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build
+CMAKE_BINARY_DIR = /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build
 
 # Utility rule file for verify.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build
 include CMakeFiles/verify.dir/progress.make
 
 CMakeFiles/verify: program
-	python3 /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/../scripts/verify-inputs.py ./program
+	python3 /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/../scripts/verify-inputs.py ./program
 
 verify: CMakeFiles/verify
 verify: CMakeFiles/verify.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/verify.dir/clean:
 .PHONY : CMakeFiles/verify.dir/clean
 
 CMakeFiles/verify.dir/depend:
-	cd /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build /mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build/CMakeFiles/verify.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build /mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build/CMakeFiles/verify.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/verify.dir/depend
 

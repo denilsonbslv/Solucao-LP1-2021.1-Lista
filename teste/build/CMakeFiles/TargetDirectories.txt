@@ -1,4 +1,4 @@
-/mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build/CMakeFiles/edit_cache.dir
-/mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build/CMakeFiles/verify.dir
-/mnt/d/denil/GitHub/LP1-2021.1-Lista1/teste/build/CMakeFiles/program.dir
+/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build/CMakeFiles/edit_cache.dir
+/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build/CMakeFiles/verify.dir
+/mnt/d/denil/GitHub/Solucao-LP1-2021.1-Lista/teste/build/CMakeFiles/program.dir
